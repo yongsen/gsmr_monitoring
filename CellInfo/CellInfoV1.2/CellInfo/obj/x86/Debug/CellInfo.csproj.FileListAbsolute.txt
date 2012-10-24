@@ -1,0 +1,136 @@
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\bin\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\bin\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\bin\Debug\ZGraph.dll
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.FormGraph.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\bin\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\bin\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\bin\Debug\ZGraph.dll
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\bin\Debug\CellInfo.exe
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\bin\Debug\CellInfo.pdb
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\bin\Debug\CellInfo.exe
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\bin\Debug\CellInfo.pdb
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.TCH_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\bin\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\bin\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\bin\Debug\ZGraph.dll
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.TCH_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.ListInfo.resources
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\bin\Debug\CellInfo.exe
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\bin\Debug\CellInfo.pdb
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.ListInfo.resources
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.TCH_Zone.resources
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+C:\Users\MaYongsen\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.exe
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.pdb
+E:\备份\程序备份\CellInfo1.0\CellInfo\bin\Debug\CellInfo.exe
+E:\备份\程序备份\CellInfo1.0\CellInfo\bin\Debug\CellInfo.pdb
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.ListInfo.resources
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.TCH_Zone.resources
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+E:\备份\程序备份\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\bin\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\bin\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\bin\Debug\ZGraph.dll
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.ListInfo.resources
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.TCH_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.NeighborZone_Info.resources
+C:\Documents and Settings\Administrator\桌面\CellInfoV1.0\CellInfo\obj\x86\Debug\CellInfo.ServingZone_Info.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\bin\Debug\CellInfo.exe
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\bin\Debug\CellInfo.pdb
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.ListInfo.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.NeighborZone_Info.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.ServingZone_Info.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.TCH_Zone.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+C:\Users\MaYongsen\Desktop\CellInfo\CellInfoV1.1\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+E:\12-01桌面\专利\程序\CellInfo\CellInfoV1.2\CellInfo\obj\x86\Debug\CellInfo.exe
+E:\12-01桌面\专利\程序\CellInfo\CellInfoV1.2\CellInfo\obj\x86\Debug\CellInfo.pdb

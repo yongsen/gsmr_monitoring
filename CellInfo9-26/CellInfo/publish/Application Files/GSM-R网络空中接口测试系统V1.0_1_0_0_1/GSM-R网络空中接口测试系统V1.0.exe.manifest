@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="GSM-R网络空中接口测试系统V1.0.exe" version="1.0.0.1" publicKeyToken="ba3ed82563e5e5da" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="GSM-R网络空中接口测试系统V1.0" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="GSM-R网络空中接口测试系统V1.0.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GSM-R网络空中接口测试系统V1.0.exe" size="187904">
+      <assemblyIdentity name="GSM-R网络空中接口测试系统V1.0" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>cUzA6ttYnF8FL6UDGdzo3Xhzc2Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZGraph.dll" size="53248">
+      <assemblyIdentity name="ZGraph" version="1.0.3783.24761" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ttwKoQnt7GyIfL/R9VOI2Jelst0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=USER-6RENOL7AV9\Administrator" issuerKeyHash="373a643848e4e6ade481690abd9512be409761de" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>erD1bIA07jwb8Z5FbRm+E9GPWxw=</DigestValue></Reference></SignedInfo><SignatureValue>AfPmABCF0KV2Q0g3tg5mYmIZSLW0FVNTud2gQlNMeMnMjq2Jb5s4kSPBH+c6INzZt1MbcF6+bQ3BmtuUN0K1RgTBDhhL+8a9UmEmiYs5V3ZFEsZuNbXkC2cuM5T3bJiX51U8ZQVqxUql2Q6RkdiF7J0T0HHXlnlrEKg9x4phpvE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>m92axinY0suInp+AvIbdKAe0/EPgQC6lpkAvjAz5AizUvcfj+hvcwVLdZRhy4vkOZS4rLrF7Dftbnd5cjyLNr5g4gDpmbabqhJGV/ZHZ3bhlFCeC/QwIQqZ4PLhAKW67BhaTDJco0Rg+u5Z6itGb5jtG4mZFCsrPPGPT95PKflM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1c5b8fd113be196d459ef11b3cee34806cf5b07a" Description="" Url=""><as:assemblyIdentity name="GSM-R网络空中接口测试系统V1.0.exe" version="1.0.0.1" publicKeyToken="ba3ed82563e5e5da" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=USER-6RENOL7AV9\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>XK5ClyAOkKPnUbdhHw4feCpo5Nk=</DigestValue></Reference></SignedInfo><SignatureValue>ElUIGIx3razKu/Ay/fZ8W35Kpa6ObzsOUWIYwWEXdcIFdhj/dhV2+ux/ujRx+DKyL/4xfJD38eNP5JP4LLiNfsnGHACBDtaZWxA0MRshekmLDbpp/buEju+jPqRsyq3Xo5hULm9kGzKBGgbTllPeW4mrcpQunrkbZCdF3jB/+hU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>m92axinY0suInp+AvIbdKAe0/EPgQC6lpkAvjAz5AizUvcfj+hvcwVLdZRhy4vkOZS4rLrF7Dftbnd5cjyLNr5g4gDpmbabqhJGV/ZHZ3bhlFCeC/QwIQqZ4PLhAKW67BhaTDJco0Rg+u5Z6itGb5jtG4mZFCsrPPGPT95PKflM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICDTCCAXagAwIBAgIQEk1C1+ah+qxEUJrLo+1JyTANBgkqhkiG9w0BAQUFADBFMUMwQQYDVQQDHjoAVQBTAEUAUgAtADYAUgBFAE4ATwBMADcAQQBWADkAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMB4XDTExMDkyNTEyMjMzN1oXDTEyMDkyNDE4MjMzN1owRTFDMEEGA1UEAx46AFUAUwBFAFIALQA2AFIARQBOAE8ATAA3AEEAVgA5AFwAQQBkAG0AaQBuAGkAcwB0AHIAYQB0AG8AcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAm92axinY0suInp+AvIbdKAe0/EPgQC6lpkAvjAz5AizUvcfj+hvcwVLdZRhy4vkOZS4rLrF7Dftbnd5cjyLNr5g4gDpmbabqhJGV/ZHZ3bhlFCeC/QwIQqZ4PLhAKW67BhaTDJco0Rg+u5Z6itGb5jtG4mZFCsrPPGPT95PKflMCAwEAATANBgkqhkiG9w0BAQUFAAOBgQB8Z5+WVJfNUSX/FW3pZDtoEOAeat1aAzMYMX0+qNC8EY2SslPX+KcRrVLwpz4UAhwgdlxQbn7O1yQK/kdkJy4kzvvXXAANTGDwmER7TRU6dSpZaLcc5QHYz2+oZbEKdx8J6jFR/wm1CA254SjuVzRHHksg0rYv3lLFroEOmZPcug==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

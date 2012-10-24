@@ -1,0 +1,124 @@
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\bin\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\bin\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\bin\Debug\ZGraph.dll
+C:\Documents and Settings\Administrator\桌面\CellInfo\CellInfo\obj\x86\Debug\CellInfo.FormGraph.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\bin\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\bin\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\bin\Debug\ZGraph.dll
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\bin\Debug\CellInfo.exe
+C:\Users\Administrator\Desktop\CellInfo1.0 failure\CellInfo\bin\Debug\CellInfo.pdb
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\bin\Debug\CellInfo.exe
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\bin\Debug\CellInfo.pdb
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.TCH_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\bin\Debug\CellInfo.exe
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\bin\Debug\CellInfo.pdb
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\bin\Debug\ZGraph.dll
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.TCH_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+C:\Documents and Settings\Administrator\桌面\CellInfo1.0\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\CellInfo.TCH_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.exe.manifest
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.application
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.exe
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.pdb
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.exe.manifest
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.application
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.exe
+C:\Users\Administrator\Desktop\CellInfo9-25\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.pdb
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.exe
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.pdb
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.Starting.resources
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.TCH_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.exe.manifest
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.application
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.exe
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.pdb
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.exe.manifest
+C:\Users\Administrator\Desktop\CellInfo9-26\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.application
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.exe
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.pdb
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.ErrorReportForm.resources
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.MainForm.resources
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.Neighbor_Zone.resources
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.PortConfigure.resources
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.Properties.Resources.resources
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.Serving_Zone.resources
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.Starting.resources
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.TCH_Zone.resources
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.Wave_Zone.resources
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\CellInfo.csproj.GenerateResource.Cache
+E:\备份\程序备份\CellInfo9-26\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.exe.manifest
+E:\备份\程序备份\CellInfo9-26\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.application
+E:\备份\程序备份\CellInfo9-26\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.exe
+E:\备份\程序备份\CellInfo9-26\CellInfo\bin\Debug\GSM-R网络空中接口测试系统V1.0.pdb
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.exe.manifest
+E:\备份\程序备份\CellInfo9-26\CellInfo\obj\x86\Debug\GSM-R网络空中接口测试系统V1.0.application

@@ -1,0 +1,8 @@
+D:\Code\Test\Ex13_01\sms\bin\Debug\sms.exe
+D:\Code\Test\Ex13_01\sms\bin\Debug\sms.pdb
+D:\Code\Test\Ex13_01\sms\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\Test\Ex13_01\sms\obj\Debug\sms.Form1.resources
+D:\Code\Test\Ex13_01\sms\obj\Debug\sms.Properties.Resources.resources
+D:\Code\Test\Ex13_01\sms\obj\Debug\sms.csproj.GenerateResource.Cache
+D:\Code\Test\Ex13_01\sms\obj\Debug\sms.exe
+D:\Code\Test\Ex13_01\sms\obj\Debug\sms.pdb
