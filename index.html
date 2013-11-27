@@ -31,25 +31,57 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h2>Files</h2>
+        <h2>
+<a name="1-introduction" class="anchor" href="#1-introduction"><span class="octicon octicon-link"></span></a>1. Introduction</h2>
+
+<p>The Um interface monitoring system was developed to make real-time measurement of received signal strength of GSM-R networks; extensive experiments were implemented along the Beijing–Shanghai high-speed railway.</p>
+
+<h3>
+<a name="a-platform" class="anchor" href="#a-platform"><span class="octicon octicon-link"></span></a>a. Platform</h3>
+
+<p>The hardware and software architecture of Um interface monitoring system is shown in the following. The system’s CPU module is RTD’s CME137686LX-W including a 333 MHz AMD Geode LX processor with 128 kB L1 cache and 128 kB L2 cache, and the GSM-R module is COM161 55RER-1 using Triorail’s engine TRM:3a. The system’s power supply, CPU and GSM-R modules are connected through PC/104 bus, and other peripherals through its specific interface. The software is independently developed by our research group, which uses Microsoft .NET Compact Framework written in C#, and it can run on various operating systems including Windows XP/Mobile/CE.</p>
+
+<p><img src="http://yongsen.github.io/img/platform.jpg" alt="Um monitoring system: hardware"><img src="http://yongsen.github.io/img/platform.jpg" alt="Um monitoring system: software"></p>
+
+<h3>
+<a name="b-algorithm" class="anchor" href="#b-algorithm"><span class="octicon octicon-link"></span></a>b. Algorithm</h3>
+
+<p>The dynamic estimation algorithm is implemented on this platform and provides basic information to up-layer applications as shown in the following figure. The raw data of RSS is collected by GSM-R device, which is composed of the information of current cell and 6 neighbor cells. Then it is processed by the dynamic estimation algorithm to provide current network status and conduct next signal sampling. The system also provides RSS prediction based on the weighted averaging of signal samples, and gives warning information when the communication performance is lower than certain threshold. Since the system records the RSS of current and neighbor cells, the data can be used to make handover analysis and network optimization. Except the physical layer information, the system can also give quality of service of the link layer, including data traffic and voice service.</p>
+
+<p><img src="http://yongsen.github.io/img/online.jpg" alt="Um monitoring system: software"></p>
+
+<h3>
+<a name="c-implementation" class="anchor" href="#c-implementation"><span class="octicon octicon-link"></span></a>c. Implementation</h3>
+
+<p>The received signal strength measurements, which is implemented by the Um monitoring system, were carried out along the Beijing–Shanghai high-speed railway. Since the velocity of train is up to 300 km/h  and the sampling interval is 500 ms limited by the length of measurement multi-frame, it requires repeated data collection to evaluate the estimation algorithm. Part of measurement results is demonstrated in the following, and the long-term and short-term fading are separated after on-line propagation estimation.</p>
+
+<p><img src="http://yongsen.github.io/img/result.jpg" alt="Um monitoring system: hardware"></p>
+
+<p>Columns D–K represent the measured data of current cell, including channel NO. (chann), RSS (dBm), Network Color Code (NCC), Base station Color Code (BCC), Cell Selection &amp; Reselection criteria (C1 &amp; C2), etc. The other columns are the parameters of neighbour cells.</p>
+
+<h2>
+<a name="2-files" class="anchor" href="#2-files"><span class="octicon octicon-link"></span></a>2. Files</h2>
 
 <ol>
 <li><p><strong>bin</strong>: the .exe file of the software</p></li>
 <li><p><strong>data</strong>: the collected data including .xml and .xlsx</p></li>
 <li><p><strong>picture</strong>: the hardware and software of the system</p></li>
-<li><p>Manual: the user's manual for the software in Chinese</p></li>
-</ol><h2>How to</h2>
+<li><p><a href="http://yongsen.github.io/files/Yongsen2011manual.pdf">Manual</a>: the user's manual for the software in Chinese</p></li>
+</ol><h2>
+<a name="3-how-to" class="anchor" href="#3-how-to"><span class="octicon octicon-link"></span></a>3. How to</h2>
 
 <p>Make sure .NET Compact Framework 2.0 or above is installed in the OS system.</p>
 
-<h3>For users</h3>
+<h3>
+<a name="a-for-users" class="anchor" href="#a-for-users"><span class="octicon octicon-link"></span></a>a. For users</h3>
 
 <ol>
 <li><p>run the .exe file of <em>/bin/CellInfo.exe</em></p></li>
 <li><p>configure the serial port</p></li>
 <li><p>click the <em>run</em> button</p></li>
-<li><p>more detailed information can be find in <em>Manual.pdf</em></p></li>
-</ol><h3>For developers</h3>
+<li><p>more detailed information can be find in <em><a href="http://yongsen.github.io/files/Yongsen2011manual.pdf">Manual.pdf</a></em></p></li>
+</ol><h3>
+<a name="b-for-developers" class="anchor" href="#b-for-developers"><span class="octicon octicon-link"></span></a>b. For developers</h3>
 
 <ol>
 <li><p>open the <em>CellInfo.csproj</em> in Visual Studio</p></li>
