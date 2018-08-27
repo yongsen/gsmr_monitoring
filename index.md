@@ -6,22 +6,16 @@ The Um interface monitoring system was developed to make real-time measurement o
 
 The hardware and software architecture of Um interface monitoring system is shown in the following. The system’s CPU module is RTD’s CME137686LX-W including a 333 MHz AMD Geode LX processor with 128 kB L1 cache and 128 kB L2 cache, and the GSM-R module is COM161 55RER-1 using Triorail’s engine TRM:3a. The system’s power supply, CPU and GSM-R modules are connected through PC/104 bus, and other peripherals through its specific interface. The software is independently developed by our research group, which uses Microsoft .NET Compact Framework written in C#, and it can run on various operating systems including Windows XP/Mobile/CE.
 
-![Um monitoring system: hardware](http://yongsen.github.io/img/platform.jpg)
-![Um monitoring system: software](http://yongsen.github.io/img/platform.jpg)
+![Um monitoring system: hardware](./picture/nEO_IMG_DSC05143.jpg)
+![Um monitoring system: software](./picture/SDC11215.JPG)
 
 ### b. Algorithm
 
 The dynamic estimation algorithm is implemented on this platform and provides basic information to up-layer applications as shown in the following figure. The raw data of RSS is collected by GSM-R device, which is composed of the information of current cell and 6 neighbor cells. Then it is processed by the dynamic estimation algorithm to provide current network status and conduct next signal sampling. The system also provides RSS prediction based on the weighted averaging of signal samples, and gives warning information when the communication performance is lower than certain threshold. Since the system records the RSS of current and neighbor cells, the data can be used to make handover analysis and network optimization. Except the physical layer information, the system can also give quality of service of the link layer, including data traffic and voice service.
 
-![Um monitoring system: software](http://yongsen.github.io/img/online.jpg)
-
 ### c. Implementation
 
-The received signal strength measurements, which is implemented by the Um monitoring system, were carried out along the Beijing–Shanghai high-speed railway. Since the velocity of train is up to 300 km/h  and the sampling interval is 500 ms limited by the length of measurement multi-frame, it requires repeated data collection to evaluate the estimation algorithm. Part of measurement results is demonstrated in the following, and the long-term and short-term fading are separated after on-line propagation estimation.
-
-![Um monitoring system: hardware](http://yongsen.github.io/img/result.jpg)
-
-Columns D–K represent the measured data of current cell, including channel NO. (chann), RSS (dBm), Network Color Code (NCC), Base station Color Code (BCC), Cell Selection & Reselection criteria (C1 & C2), etc. The other columns are the parameters of neighbour cells.
+The received signal strength measurements, which is implemented by the Um monitoring system, were carried out along the Beijing–Shanghai high-speed railway. Since the velocity of train is up to 300 km/h  and the sampling interval is 500 ms limited by the length of measurement multi-frame, it requires repeated data collection to evaluate the estimation algorithm. Some measurement results can be found in the `data/` foldor, and the long-term and short-term fading are separated after on-line propagation estimation.
 
 ## 2. Files
 
