@@ -6,7 +6,7 @@ The Um interface monitoring system was developed to make real-time measurement o
 
 The hardware and software architecture of Um interface monitoring system is shown in the following. The system’s CPU module is RTD’s CME137686LX-W including a 333 MHz AMD Geode LX processor with 128 kB L1 cache and 128 kB L2 cache, and the GSM-R module is COM161 55RER-1 using Triorail’s engine TRM:3a. The system’s power supply, CPU and GSM-R modules are connected through PC/104 bus, and other peripherals through its specific interface. The software is independently developed by our research group, which uses Microsoft .NET Compact Framework written in C#, and it can run on various operating systems including Windows XP/Mobile/CE.
 
-![Um monitoring system: hardware](./picture/nEO_IMG_DSC05143.jpg)
+![Um monitoring system: hardware](gsmr_monitoring/picture/SDC11215.JPG)
 
 ![Um monitoring system: software](./picture/SDC11215.JPG)
 
